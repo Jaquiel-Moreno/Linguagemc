@@ -5,6 +5,6 @@
 
 int main()
 {
-    printf("Hellow Woold");
-
+    printf("\n\n  Hello World");
+    getch();
 }
